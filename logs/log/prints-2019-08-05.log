@@ -1,0 +1,70 @@
+15:47:15.920 [main] INFO  testing.LoginExample - Driver initialized
+15:47:18.557 [main] INFO  testing.LoginExample - hit url
+15:47:18.620 [main] INFO  testing.LoginExample - validated page
+15:47:29.495 [main] ERROR testing.LoginExample - login failed
+15:47:29.542 [main] INFO  testing.LoginExample - validated page
+15:47:40.334 [main] ERROR testing.LoginExample - login failed
+15:47:40.428 [main] INFO  testing.LoginExample - validated page
+15:47:41.416 [main] INFO  testing.LoginExample - logged
+15:47:47.069 [main] INFO  testing.FramesExample - Driver initialized
+15:47:48.564 [main] INFO  testing.FramesExample - hit url
+15:47:48.610 [main] DEBUG testing.FramesExample - switched to top-frame
+15:47:48.672 [main] DEBUG testing.FramesExample - switched to middle-frame
+15:47:48.688 [main] DEBUG testing.FramesExample - switched to defaultContent
+15:47:54.476 [main] INFO  testing.DynamicControlsExample - Driver initialized
+15:47:56.996 [main] INFO  testing.DynamicControlsExample - hit url
+15:47:57.175 [main] INFO  testing.DynamicControlsExample - chceckbox validated as selected
+15:47:57.374 [main] INFO  testing.DynamicControlsExample - wait for WebElements
+15:48:00.763 [main] DEBUG testing.DynamicControlsExample - InputBox is visible now
+15:48:00.845 [main] INFO  testing.DynamicControlsExample - typed Test into inputBox
+15:48:06.472 [main] INFO  testing.DissElementsExample - Driver initialized
+15:48:09.324 [main] INFO  testing.DissElementsExample - hit url
+15:48:09.713 [main] INFO  testing.DissElementsExample - clicked on gallery
+15:48:15.464 [main] INFO  testing.JavaScriptAlertsExample - Driver initialized
+15:48:18.309 [main] INFO  testing.JavaScriptAlertsExample - hit url5
+15:53:06.848 [main] INFO  testing.LoginExample - Driver initialized
+15:53:09.343 [main] INFO  testing.LoginExample - hit url
+15:53:09.428 [main] INFO  testing.LoginExample - validated page
+15:53:20.289 [main] ERROR testing.LoginExample - login failed
+15:53:20.351 [main] INFO  testing.LoginExample - validated page
+15:53:31.102 [main] ERROR testing.LoginExample - login failed
+15:53:31.180 [main] INFO  testing.LoginExample - validated page
+15:53:31.995 [main] INFO  testing.LoginExample - logged
+15:53:41.755 [main] INFO  testing.FramesExample - Driver initialized
+15:53:42.940 [main] INFO  testing.FramesExample - hit url
+15:53:42.984 [main] DEBUG testing.FramesExample - switched to top-frame
+15:53:43.047 [main] DEBUG testing.FramesExample - switched to middle-frame
+15:53:43.062 [main] DEBUG testing.FramesExample - switched to defaultContent
+15:53:48.830 [main] INFO  testing.DynamicControlsExample - Driver initialized
+15:53:51.448 [main] INFO  testing.DynamicControlsExample - hit url
+15:53:51.614 [main] INFO  testing.DynamicControlsExample - chceckbox validated as selected
+15:53:51.823 [main] INFO  testing.DynamicControlsExample - wait for WebElements
+15:53:55.170 [main] DEBUG testing.DynamicControlsExample - InputBox is visible now
+15:53:55.265 [main] INFO  testing.DynamicControlsExample - typed Test into inputBox
+15:54:00.899 [main] INFO  testing.DissElementsExample - Driver initialized
+15:54:03.315 [main] INFO  testing.DissElementsExample - hit url
+15:54:03.730 [main] INFO  testing.DissElementsExample - clicked on gallery
+15:54:09.443 [main] INFO  testing.JavaScriptAlertsExample - Driver initialized
+15:54:12.446 [main] INFO  testing.JavaScriptAlertsExample - hit url5
+16:20:32.858 [main] INFO  testing.LoginExample - Driver initialized
+16:20:35.502 [main] INFO  testing.LoginExample - hit url
+16:20:35.559 [main] INFO  testing.LoginExample - validated page
+16:20:46.382 [main] ERROR testing.LoginExample - login failed
+16:20:46.445 [main] INFO  testing.LoginExample - validated page
+16:20:57.221 [main] ERROR testing.LoginExample - login failed
+16:20:57.299 [main] INFO  testing.LoginExample - validated page
+16:20:58.175 [main] INFO  testing.LoginExample - logged
+16:21:03.986 [main] INFO  testing.FramesExample - Driver initialized
+16:21:05.256 [main] INFO  testing.FramesExample - hit url
+16:21:05.301 [main] DEBUG testing.FramesExample - switched to top-frame
+16:21:05.364 [main] DEBUG testing.FramesExample - switched to middle-frame
+16:21:05.379 [main] DEBUG testing.FramesExample - switched to defaultContent
+16:21:11.022 [main] INFO  testing.DynamicControlsExample - Driver initialized
+16:21:13.567 [main] INFO  testing.DynamicControlsExample - hit url
+16:21:13.757 [main] INFO  testing.DynamicControlsExample - chceckbox validated as selected
+16:21:13.990 [main] INFO  testing.DynamicControlsExample - wait for WebElements
+16:21:17.373 [main] DEBUG testing.DynamicControlsExample - InputBox is visible now
+16:21:17.481 [main] INFO  testing.DynamicControlsExample - typed Test into inputBox
+16:21:23.119 [main] INFO  testing.DissElementsExample - Driver initialized
+16:21:25.526 [main] INFO  testing.DissElementsExample - hit url
+16:21:25.923 [main] INFO  testing.DissElementsExample - clicked on gallery

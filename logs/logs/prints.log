@@ -1,0 +1,36 @@
+16:21:32.153 [main] INFO  testing.JavaScriptAlertsExample - Driver initialized
+16:21:38.633 [main] INFO  testing.JavaScriptAlertsExample - hit url5
+16:22:38.550 [main] INFO  testing.LoginExample - Driver initialized
+16:22:41.103 [main] INFO  testing.LoginExample - hit url
+16:22:41.167 [main] INFO  testing.LoginExample - validated page
+16:22:52.108 [main] ERROR testing.LoginExample - login failed
+16:22:52.167 [main] INFO  testing.LoginExample - validated page
+16:23:02.856 [main] ERROR testing.LoginExample - login failed
+16:23:02.935 [main] INFO  testing.LoginExample - validated page
+16:23:03.898 [main] INFO  testing.LoginExample - logged
+16:23:09.506 [main] INFO  testing.FramesExample - Driver initialized
+16:23:10.720 [main] INFO  testing.FramesExample - hit url
+16:23:10.775 [main] DEBUG testing.FramesExample - switched to top-frame
+16:23:10.838 [main] DEBUG testing.FramesExample - switched to middle-frame
+16:23:10.853 [main] DEBUG testing.FramesExample - switched to defaultContent
+16:23:16.624 [main] INFO  testing.DynamicControlsExample - Driver initialized
+16:23:18.865 [main] INFO  testing.DynamicControlsExample - hit url
+16:23:19.075 [main] INFO  testing.DynamicControlsExample - chceckbox validated as selected
+16:23:19.294 [main] INFO  testing.DynamicControlsExample - wait for WebElements
+16:23:22.594 [main] DEBUG testing.DynamicControlsExample - InputBox is visible now
+16:23:22.686 [main] INFO  testing.DynamicControlsExample - typed Test into inputBox
+16:23:28.370 [main] INFO  testing.DissElementsExample - Driver initialized
+16:23:30.709 [main] INFO  testing.DissElementsExample - hit url
+16:23:30.746 [main] ERROR testing.DissElementsExample - refreshing page
+16:23:31.032 [main] DEBUG testing.DissElementsExample - page refreshed
+16:23:31.048 [main] ERROR testing.DissElementsExample - refreshing page
+16:23:31.312 [main] DEBUG testing.DissElementsExample - page refreshed
+16:23:31.328 [main] ERROR testing.DissElementsExample - refreshing page
+16:23:31.602 [main] DEBUG testing.DissElementsExample - page refreshed
+16:23:31.620 [main] ERROR testing.DissElementsExample - refreshing page
+16:23:31.879 [main] DEBUG testing.DissElementsExample - page refreshed
+16:23:31.893 [main] ERROR testing.DissElementsExample - refreshing page
+16:23:32.156 [main] DEBUG testing.DissElementsExample - page refreshed
+16:23:32.547 [main] INFO  testing.DissElementsExample - clicked on gallery
+16:23:38.610 [main] INFO  testing.JavaScriptAlertsExample - Driver initialized
+16:23:41.023 [main] INFO  testing.JavaScriptAlertsExample - hit url5
